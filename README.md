@@ -29,10 +29,6 @@ It’s a simple collection of number-based programs I built to learn loops and l
 2. Open files in VS Code or any Java IDE
 3. Compile and run each `.java` file
 
----
-
- 📸 Screenshots (optional):
-_Add screenshots of your output here if you like_
 
 ---
 
